@@ -18,20 +18,21 @@ Let us take a deeper look into the trends of renewable and non renewable energy 
 
 ### Evolution of non renewable energy consumption trend in different countries 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/nonre_energy_sheet/Non-renewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
-
+The geospatial plot above shows the degree to which countries have continued to consume energy from non-renewable sources. The color encodes the fraction of the total energy consumed that comes from non-renewable sources, so countries with a darker shade have a larger fraction of energy consumed from non-renewable sources relative to countries with a lighter shade. Upon hovering over a country, the breakdown of energy consumption from various non-renewable sources is shown in a bar chart in the tooltip itself.
 ### Evolution of renewable energy consumption trend in different countries
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/re_energy_sheet/RenewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+Now, we take a look at the degree to which countries have transitioned to consuming energy from renewable sources. The geospatial plot above shows the degree to which countries have transitioned into consuming energy from renewable sources. The color encodes the fraction of the total energy consumed that comes from renewable sources, so countries with a darker shade have transitioned more relative to countries with a lighter shade. Upon hovering over a country, the breakdown of energy consumption from various renewable sources is shown in a bar chart in the tooltip itself. 
 
 ### How the Top 10 GDP countries consume energy over the years
 While we get an overall picture of how energy resources are being consumed by the countries from the above visualizations, let's take a deeper look at the consumption of each energy resource.
-Generally the Top GDP countries are the ones that consume more energy resources so it is worth investigating how these countries have been consuming renewable and non-renewable resources over the years. 
-
+Generally the Top GDP countries are the ones that consume more energy resources so it is worth investigating how these countries have been consuming renewable and non-renewable resources over the years.
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/rankenergy_countries/SourceConsumptionRank?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 For example, it is worth noticing how Canada has been leading in the usage of hydro energy .
-We can see how Canada is leading in the usage of hydro energy. And how the UK and significantly reduced its coal consumption over the years.![image](https://user-images.githubusercontent.com/53209175/204330294-e0d5d4bf-a195-4e7b-86af-81280e261195.png)
+We can see how Canada is leading in the usage of hydro energy. And how the UK and significantly reduced its coal consumption over the years.
 
+### GHG emissions 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/Correlation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/co2_energy?:language=en-US&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/Correlation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 
 
