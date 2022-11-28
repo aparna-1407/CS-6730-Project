@@ -4,7 +4,7 @@
 
 ### Subheading 1
 Vis 1: 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction/Proj1_vis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_dashboard/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" ></iframe>
 
 ### Subheading 2
 Vis 2:
