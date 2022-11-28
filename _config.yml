@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: dmo98.github.io/CS-6730-Project
-description: Global Energy Consumption over the years.
+github:
+  is_project_page: false
+description: by Jake Present, Kiera Berger, and Casey Boland
