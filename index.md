@@ -9,7 +9,7 @@ Is it technical skills? Raw strength? Endurance? Grip strength and form?
 
 Using data scraped from the MountainProject database in August 2020 and hosted by openbeta.io, we've analyzed the climber-entered descriptions for each route to determine what skills a climber needs to possess to successfully climb at a higher level.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_sheet2/renewablesgeneration2?:language=en-US&publish=yes&:display_count=yes&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '1050' height = '550' scrolling='yes' ></iframe>    
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_sheet2/renewablesgeneration2?:language=en-US&publish=yes&:display_count=yes&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>    
 
 Take a look at this map of the more than 54,000 sport climbing routes entered in MountainProject, with the color of each point corresponding to the difficulty rating assigned to it. In the rock climbing world, a low YDS rank corresponds to an easier route, while the routes with higher YDS ranks are more challenging.
 The distribution of the route locations is not exactly surprising, with the vast majority of them seeming to be located around the Appalachians and the Rockies, depending on which coast you happen to live on.
