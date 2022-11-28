@@ -2,4 +2,4 @@
 
 
 Vis 1: 
-<iframe seamless frameborder="0" src="https://public.tableau.com/shared/DYR8WXZ7P?:display_count=n&:origin=viz_share_link" width = '850' height = '550' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kartik4101/viz/global_annual_energy_prod/Infographic?publish=yes" width = '850' height = '550' scrolling='yes' ></iframe>
