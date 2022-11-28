@@ -31,6 +31,9 @@ We can see how Canada is leading in the usage of hydro energy. And how the UK an
 
 ### GHG emissions
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/co2_energy?:language=en-US&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+As the countries move to renewable energy sources, the GHG emissions are expected to drop. In this visualization, we compare the trend for different countries over the years. The countries are divided into different region groups and can also be filtered based on four additional economic categories: (1) G7, (2) G20, (3) BRICS, (4) EU. One can change the years and see how the countries change with respect to energy share (on y-axis) and emissions (on x-axis). We also give the functionality of changing the x and y axes based on different variables in the data. In particular, one can plot renewable and non-renewable energy share on y-axis and greenhouse gas and co2 emissions on x-axis. 
+ 
+Multiple insights can be gained from such an interactive visualization. For example, one can note that emissions from China has dramatically increased over the years while its share in renewable energy has not changed in comparison. This can be attributed to its ever-increasing population and GDP that can be noticed from the increasing size of the data mark. 
 
 ### Impact on energy consumtion as consequence of other factors
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/Correlation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
@@ -39,4 +42,4 @@ A similar trend is however not observed when we consider energy consumption, whi
 Population and GDP have similar impacts. 
 GHG emissions have increased with population, GDP, Non Renewable energy. 
 The trends are not uniform across the globe. OECD, Asia, Africa, Latin America show a more prominent shift to renewable sources while Middle East still seems to rely more on non renewable sources.
-
+One can observe that there is a positive correlation between non-renewable energy consumption and GHG emissions everywhere except Europe where some datapoints have high consumption and yet low GHG emissions. One can also see similar trends between non-renewable consumption and population, GDP. This calls for further analysis as to what's driving this trend for Europe that can be considered as the next step derived from our visualization.
