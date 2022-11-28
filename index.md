@@ -7,11 +7,12 @@ These are all important questions and they help us garner a clearer picture of w
 </p>
 
 ### The Data
+<p align="justify">
 We have used data primarily from the [World Energy Consumption Dataset](https://ourworldindata.org/energy) and [GHG Emission Dataset World Energy Consumption](https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy-highlights) to analyse the energy consumption trends from different sources, how other social factors such as GDP and population have imapcted this trend, and how energy consmuption has impacted green house gas (GHG) emissions. 
-
+</p>
 ### Energy Consumption over the years
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_sheet2/renewablesgeneration2?:language=en-US&publish=yes&:display_count=yes&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>    
-
+<p align="justify">
 Take a look at this barchart showing how annual consumption of energy all over the world from 1990 to 2020, the last two decades. While we might feel positive that renweable energy sources are put to use and the rates of their consumption have been steadily increasing in time, it is frightening to note that renewable energy still meets less than 50% of our demand. We still thrive over non renewable sources of energy to meet majority of our energy and fuel demands. Use of fossil fuels like coal and oil is severely damaging our environment. On a slighlty brighter side, the consumption of fossil fuels dropped by 0.8% in 2020. This could be a result of the global pandemic and people forced to quarantine and stay home bringing travel to a standstill reducing fuel usage. 
 In a nutshell, usage of renewable energy sources is definitely growing steadily, but fossil fuels continue to dominate.
 
@@ -42,6 +43,7 @@ Multiple insights can be gained from such an interactive visualization. For exam
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/Correlation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 Some interesting points to note are there is an increase in renewable electricity with population, while there is a decline in non renewable electricity with population in recent times. This is a positive change. 
 A similar trend is however not observed when we consider energy consumption, which comprises our transportation and manufacturing needs. Both renewable and non renewable sources have observed an increase, while the latter has seen a much sharper increase. This is owed to increased number of vehicles and industrialisation over the years. 
+ </p>
 Population and GDP have similar impacts. 
 GHG emissions have increased with population, GDP, Non Renewable energy. 
 The trends are not uniform across the globe. OECD, Asia, Africa, Latin America show a more prominent shift to renewable sources while Middle East still seems to rely more on non renewable sources.
