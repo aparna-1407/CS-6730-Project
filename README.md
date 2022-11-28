@@ -2,4 +2,4 @@
 
 
 Vis 1: 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/map_routes/Dashboard1?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/global_annual_energy_prod/Infographic?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '850' height = '550' scrolling='yes' ></iframe>
