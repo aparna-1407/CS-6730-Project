@@ -17,34 +17,41 @@ Take a look at this barchart showing how annual consumption of energy all over t
 In a nutshell, usage of renewable energy sources is definitely growing steadily, but fossil fuels continue to dominate.
 
 Let us take a deeper look into the trends of renewable and non renewable energy consumption across the different countries to see how different countries have evolved to meet their energy needs. 
-
+</p>
 ### Evolution of non renewable energy consumption trend in different countries 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/nonre_energy_sheet/Non-renewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+<p align="justify">
 The geospatial plot above shows the degree to which countries have continued to consume energy from non-renewable sources. Over 50% of the energy demands in most countries have continued to be met using fossil fuels. There is a treamendous increase in the energy consumption from the late 60s to the early 1970s all over the world especially in the United States which is owed to the rapid indutrialisation, manufacture, and growing population. This rapid increase mildly stagnated through the late 1970s, with a very small increase in energy consumption relative to trend seen in the past. This decline in energy demand led to the Oil Glut of 1980s which in turn caused a fall in oil and gas prices and the consequence of this can be observed in a steep increase in gas and oil consumption around late 80s and 90s. In the 70s and 80s North America was the leading consumer of fossil fuel followed by Western Europe and then Asia. Through the 90s, Eastern Europe accelerated its consumption because of development in transport structures for oil and gas, more automobilies and increased demand for electricity. In 2000, the whole world sees a drastic increase in fuel consumption primarily because the population has increased massively and demands for electricity have also increased largely due to mass adoptation of Internet. The mid 2000s donot see much of an increase in the consumption, this corresponds to an increasing switch to renewable sources of energy, predominantly the large scale harnessing of nuclear energy. 
+ </p>
 ### Evolution of renewable energy consumption trend in different countries
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/re_energy_sheet/RenewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/re_energy_sheet/RenewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>
+<p align="justify">
 Now, we take a look at the degree to which countries have transitioned to consuming energy from renewable sources. We observe that Nuclear and Hydro are the primary sources of renewable energy consumption globally. Although certain countries such as Sweden, Norway and Iceland have already made a significant shift to renewable sources, with the renewable sources accounting for at least 50% of the total energy consumption, most countries haven't made a significant transition. Certain North African countries (such as Algeria, Egypt and Morocco) along with Central Asian countries (such as Turkmenistan, Uzbekistan and Kazakhstan) have barely begun consuming energy from renewable sources, likely due to their inability to afford the cost of capital required to make the transition. The countries in the Arabian peninsula also haven't started consuming energy from renewable sources yet, likely due to the absence of a urgent need for them to do so since they have a large supply of non-renewable sources of energy. The rest of the other countries seem to have started a shift towards renewable energy, with the share of energy consumption from renewable sources accounting for almost 10% of the total energy consumption on average. 
-
+</p>
 ### How the Top 10 GDP countries consume energy over the years
 While we get an overall picture of how energy resources are being consumed by the countries from the above visualizations, let's take a deeper look at the consumption of each energy resource.
 Generally the Top GDP countries are the ones that consume more energy resources so it is worth investigating how these countries have been consuming renewable and non-renewable resources over the years.
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/rankenergy_countries/SourceConsumptionRank?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+<p align="justify">
 Some worthy insights include noticing how Canada has been leading in the usage of hydro energy owing to the many rivers across the country which allows hydropower generation in all regions of Canada meeting 60% of the energy needs of the country. France has been leading in nuclear energy since 1990s which meets nearly 65-75% of its energy needs. This could be because France has no oil, no gas and coal resources are very poor and virtually exhausted. French policy makers saw only one way for France to achieve energy independence: nuclear energy. Germany is using wind energy widely, this could be a consequence of the government's aim to soon meet 80% of its energy needs using wind energy and accelerating the growth of wind farms in the country. UK has significantly reduced its coal consumption over the years. The overall coal consumption has also come down, indication a shift from the consumption of non-renewable energy to renewable sources.
 
 While we expect tropical contries like India to be having a higher use of solar energy, it is still significantly low compared to the other Top GDP countries. Despite the availability of abundant amounts of solar energy there are other factors in play like cost of installing that affect the extent of harnessing the power.
-
+</p>
 ### GHG emissions
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/co2_energy?:language=en-US&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+<p align="justify">
 As the countries move to renewable energy sources, the GHG emissions are expected to drop. In this visualization, we compare the trend for different countries over the years. The countries are divided into different region groups and can also be filtered based on four additional economic categories: (1) G7, (2) G20, (3) BRICS, (4) EU. One can change the years and see how the countries change with respect to energy share (on y-axis) and emissions (on x-axis). We also give the functionality of changing the x and y axes based on different variables in the data. In particular, one can plot renewable and non-renewable energy share on y-axis and greenhouse gas and co2 emissions on x-axis. 
  
 Multiple insights can be gained from such an interactive visualization. For example, one can note that emissions from China has dramatically increased over the years while its share in renewable energy has not changed in comparison. This can be attributed to its ever-increasing population and GDP that can be noticed from the increasing size of the data mark. 
-
+</p>
 ### Impact on energy consumtion as consequence of other factors
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/Correlation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+<p align="justify">
 Some interesting points to note are there is an increase in renewable electricity with population, while there is a decline in non renewable electricity with population in recent times. This is a positive change. 
 A similar trend is however not observed when we consider energy consumption, which comprises our transportation and manufacturing needs. Both renewable and non renewable sources have observed an increase, while the latter has seen a much sharper increase. This is owed to increased number of vehicles and industrialisation over the years. 
- </p>
+
 Population and GDP have similar impacts. 
 GHG emissions have increased with population, GDP, Non Renewable energy. 
 The trends are not uniform across the globe. OECD, Asia, Africa, Latin America show a more prominent shift to renewable sources while Middle East still seems to rely more on non renewable sources.
 One can observe that there is a positive correlation between non-renewable energy consumption and GHG emissions everywhere except Europe where some datapoints have high consumption and yet low GHG emissions. One can also see similar trends between non-renewable consumption and population, GDP. This calls for further analysis as to what's driving this trend for Europe that can be considered as the next step derived from our visualization.
+ </p>
