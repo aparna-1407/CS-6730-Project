@@ -18,7 +18,14 @@ Take a look at this barchart showing how annual consumption of energy all over t
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/re_energy_sheet/RenewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/co2_energy?:language=en-US&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/Correlation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+### How the Top 10 GDP countries consume energy over the years
+While we get an overall picture of how energy resources are being consumed by the countries from the above visualizations, let's take a deeper look at the consumption of each energy resource.
+Generally the Top GDP countries are the ones that consume more energy resources so it is worth investigating how these countries have been consuming renewable and non-renewable resources over the years. 
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/rankenergy_countries/SourceConsumptionRank?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+For example, it is worth noticing how Canada has been leading in the usage of hydro energy .
+We can see how Canada is leading in the usage of hydro energy. And how the UK and significantly reduced its coal consumption over the years.![image](https://user-images.githubusercontent.com/53209175/204330294-e0d5d4bf-a195-4e7b-86af-81280e261195.png)
+
 
 ### The Data
 
