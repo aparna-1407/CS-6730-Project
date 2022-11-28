@@ -32,8 +32,12 @@ We can see how Canada is leading in the usage of hydro energy. And how the UK an
 ### GHG emissions
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/co2_energy?:language=en-US&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 
-
+### Impact on energy consumtion as consequence of other factors
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/Correlation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
-
+Some interesting points to note are there is an increase in renewable electricity with population, while there is a decline in non renewable electricity with population in recent times. This is a positive change. 
+A similar trend is however not observed when we consider energy consumption, which comprises our transportation and manufacturing needs. Both renewable and non renewable sources have observed an increase, while the latter has seen a much sharper increase. This is owed to increased number of vehicles and industrialisation over the years. 
+Population and GDP have similar impacts. 
+GHG emissions have increased with population, GDP, Non Renewable energy. 
+The trends are not uniform across the globe. OECD, Asia, Africa, Latin America show a more prominent shift to renewable sources while Middle East still seems to rely more on non renewable sources.
 
 
