@@ -1,20 +1,21 @@
-# Energy over the years
-## A glance at the changing energy landscape over the last 2 decades
+# CS 6730 Project
+# Changing Landscape of Energy
+## A glance at the how energy consumption and production has changed over the last 2 decades and its impact
 ### by Aparna Shree Sivanandam, Daanish Mohammed, Sahithi Mattapalli and Kartik Sharma
 
-What does it take to become a better sport climber? If you could teleport to any climbing area in the United States, where should you go?
+In today's age of alarming levels of climate change, rising surface temperatures, immense pollution, melting ice caps, holes in the ozone layer, there is increasing concern and discussion around saving our planet. It is a well known fact that changes observed in Earth’s climate since the mid-20th century are driven by human activities, particularly fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere, raising Earth’s average surface temperature. While there are efforts being taken to switch to greener alternatives, where exactly are we in this shift? what are the primary sources of fuel that meet majority of our needs even today? How is our current levels of energy consumption contributing towards pushing the planet to the brink in terms of increasing green hose gas emissions? How are different countries working towards shifting to renewable alternatives? What are some factors that are pushing us towards increased fuel consumption?
 
-What differentiates a route with a beginner level YDS (Yosemite Decimal System) rating from one an advanced climber can send?
-Is it technical skills? Raw strength? Endurance? Grip strength and form? 
+These are all important questions and they help us garner a clearer picture of where we are and how much more we have to work towards attaining a more sustainable planet.
 
 Using data scraped from the MountainProject database in August 2020 and hosted by openbeta.io, we've analyzed the climber-entered descriptions for each route to determine what skills a climber needs to possess to successfully climb at a higher level.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_sheet2/renewablesgeneration2?:language=en-US&publish=yes&:display_count=yes&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>    
 
-Take a look at this map of the more than 54,000 sport climbing routes entered in MountainProject, with the color of each point corresponding to the difficulty rating assigned to it. In the rock climbing world, a low YDS rank corresponds to an easier route, while the routes with higher YDS ranks are more challenging.
+Take a look at this barchart showing how annual consumption of energy all over the world from 1990 to 2020, that is the last two decades. While we might feel positive that renweable energy sources have come into use and have also been steadily increasing in time, it is frightening to note that renewable energy still meets only  of the more than 54,000 sport climbing routes entered in MountainProject, with the color of each point corresponding to the difficulty rating assigned to it. In the rock climbing world, a low YDS rank corresponds to an easier route, while the routes with higher YDS ranks are more challenging.
 The distribution of the route locations is not exactly surprising, with the vast majority of them seeming to be located around the Appalachians and the Rockies, depending on which coast you happen to live on.
 
 Unfortunately, while this view of the data is interesting, it doesn't give our hypothetical climber much of an idea of which route to pick. With this many routes, there are likely infinite combinations of hold type, rock shape, and climbing style.  
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/nonre_energy_sheet/Non-renewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>    
 
 ### The Data
 
@@ -30,7 +31,7 @@ In the rock climbing community, difficulty ratings for climbing routes range fro
 
 To learn more about what the original ratings mean, you can visit [this page](https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html).
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/re_energy_sheet/RenewablebyCountry?:language=en-US&:display_count=n&:origin=viz_share_link" width = '850' height = '550' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/climbinganalysis2/Dashboard2?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '550' height = '550' scrolling='yes' ></iframe>
 
 As you can see in the pie chart above, each category contains a roughly equal number of routes.
 
