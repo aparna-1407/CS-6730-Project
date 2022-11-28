@@ -7,14 +7,13 @@ In today's age of alarming levels of climate change, rising surface temperatures
 
 These are all important questions and they help us garner a clearer picture of where we are and how much more we have to work towards attaining a more sustainable planet.
 
+### The Data
 Using data scraped from the MountainProject database in August 2020 and hosted by openbeta.io, we've analyzed the climber-entered descriptions for each route to determine what skills a climber needs to possess to successfully climb at a higher level.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_sheet2/renewablesgeneration2?:language=en-US&publish=yes&:display_count=yes&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>    
 
-Take a look at this barchart showing how annual consumption of energy all over the world from 1990 to 2020, that is the last two decades. While we might feel positive that renweable energy sources have come into use and have also been steadily increasing in time, it is frightening to note that renewable energy still meets only  of the more than 54,000 sport climbing routes entered in MountainProject, with the color of each point corresponding to the difficulty rating assigned to it. In the rock climbing world, a low YDS rank corresponds to an easier route, while the routes with higher YDS ranks are more challenging.
-The distribution of the route locations is not exactly surprising, with the vast majority of them seeming to be located around the Appalachians and the Rockies, depending on which coast you happen to live on.
-
-Unfortunately, while this view of the data is interesting, it doesn't give our hypothetical climber much of an idea of which route to pick. With this many routes, there are likely infinite combinations of hold type, rock shape, and climbing style.  
+Take a look at this barchart showing how annual consumption of energy all over the world from 1990 to 2020, the last two decades. While we might feel positive that renweable energy sources are put to use and the rates of their consumption have been steadily increasing in time, it is frightening to note that renewable energy still meets less than 50% of our demand. We still thrive over non renewable sources of energy to meet majority of our energy and fuel demands. Use of fossil fuels like coal and oil is severely damaging our environment. On a slighlty brighter side, the consumption of fossil fuels dropped by 0.8% in 2020. This could be a result of the global pandemic and people forced to quarantine and stay home bringing travel to a standstill reducing fuel usage. 
+  
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/nonre_energy_sheet/Non-renewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/re_energy_sheet/RenewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/correlation_energy/co2_energy?:language=en-US&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
