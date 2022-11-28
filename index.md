@@ -13,8 +13,13 @@ We have used data primarily from the [World Energy Consumption Dataset](https://
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_sheet2/renewablesgeneration2?:language=en-US&publish=yes&:display_count=yes&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>    
 
 Take a look at this barchart showing how annual consumption of energy all over the world from 1990 to 2020, the last two decades. While we might feel positive that renweable energy sources are put to use and the rates of their consumption have been steadily increasing in time, it is frightening to note that renewable energy still meets less than 50% of our demand. We still thrive over non renewable sources of energy to meet majority of our energy and fuel demands. Use of fossil fuels like coal and oil is severely damaging our environment. On a slighlty brighter side, the consumption of fossil fuels dropped by 0.8% in 2020. This could be a result of the global pandemic and people forced to quarantine and stay home bringing travel to a standstill reducing fuel usage. 
-  
+
+Let us take a deeper look into the trends of renewable and non renewable energy consumption across the different countries to see how different countries have evolved to meet their energy needs. 
+
+### Evolution of non renewable energy consumption trend in different countries 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/nonre_energy_sheet/Non-renewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
+
+### Evolution of renewable energy consumption trend in different countries
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/re_energy_sheet/RenewablebyCountry?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe> 
 
 ### How the Top 10 GDP countries consume energy over the years
