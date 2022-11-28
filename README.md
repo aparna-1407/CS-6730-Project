@@ -4,7 +4,7 @@
 
 ### Subheading 1
 Vis 1: 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/global_annual_energy_prod/Infographic?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction/Proj1_vis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" ></iframe>
 
 ### Subheading 2
 Vis 2:
