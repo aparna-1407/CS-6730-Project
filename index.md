@@ -1,5 +1,5 @@
 # Changing Landscape of Energy
-
+### A glance at the how energy consumption and production has changed over the last 2 decades and its impact.
 In today's age of alarming levels of climate change, rising surface temperatures, immense pollution, melting ice caps, holes in the ozone layer, there is increasing concern and discussion around saving our planet. It is a well known fact that changes observed in Earth’s climate since the mid-20th century are driven by human activities, particularly fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere, raising Earth’s average surface temperature. While there are efforts being taken to switch to greener alternatives, where exactly are we in this shift? what are the primary sources of fuel that meet majority of our needs even today? How is our current levels of energy consumption contributing towards pushing the planet to the brink in terms of increasing green hose gas emissions? How are different countries working towards shifting to renewable alternatives? What are some factors that are pushing us towards increased fuel consumption?
 
 These are all important questions and they help us garner a clearer picture of where we are and how much more we have to work towards attaining a more sustainable planet.
