@@ -4,11 +4,11 @@
 
 ### Subheading 1
 Vis 1: 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/global_annual_energy_prod/Infographic?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '1200' height = '1000' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/global_annual_energy_prod/Infographic?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' ></iframe>
 
 ### Subheading 2
 Vis 2:
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/renewable_energy_consumption/Renewablebycountry?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/renewable_energy_consumption/Renewablebycountry?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' ></iframe>
 
 Vis 3:
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/nonrenewable_energy_consumption/Non-Renewablebycountry?:language=en-US&embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes'></iframe>
