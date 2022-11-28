@@ -8,7 +8,7 @@ In today's age of alarming levels of climate change, rising surface temperatures
 These are all important questions and they help us garner a clearer picture of where we are and how much more we have to work towards attaining a more sustainable planet.
 
 ### The Data
-Using data scraped from the MountainProject database in August 2020 and hosted by openbeta.io, we've analyzed the climber-entered descriptions for each route to determine what skills a climber needs to possess to successfully climb at a higher level.
+We have used our data primarily from the World Energy Consmption Dataset and GHG Emission Dataset
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GlobalAnnualEnergyProduction_sheet2/renewablesgeneration2?:language=en-US&publish=yes&:display_count=yes&:origin=viz_share_link&embed=yes&:showVizHome=no" width = '850' height = '550' scrolling='yes' ></iframe>    
 
